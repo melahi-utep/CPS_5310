@@ -1,0 +1,19 @@
+
+1. Central Difference
+
+		a = 0.4646
+		b = 3.0091
+		c = 0.0000
+		r = 2.3000
+ 
+ 2. Quadratic Regression
+ 
+ 3. Direct Method
+ 
+		a = 0.3790
+		b = 0.1414
+		c = 0.0659
+		r = 0.2844
+		
+Conclusion: The direct method yields better results. Since the death rate of prey is much higher than
+the proliferation of predators.
