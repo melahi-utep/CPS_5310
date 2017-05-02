@@ -1,4 +1,4 @@
-
+% 30/30
 %CPS 5310 Homework 7
 %Title: Central Difference
 %Author: Mirza Mohammad Maqbule Elahi

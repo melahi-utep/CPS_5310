@@ -2,7 +2,7 @@
 %Title: Direct Method
 %Author: Mirza Mohammad Maqbule Elahi
 %Date: 04-19-2017
-
+% 30/30
 %%
 clear all;
 close all;

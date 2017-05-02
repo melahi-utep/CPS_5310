@@ -1,3 +1,4 @@
+%30/30
 %CPS 5310 Homework 7
 %Title: Least Square Curve Fit
 %Author: Mirza Mohammad Maqbule Elahi
